@@ -1,0 +1,13 @@
+
+# Ignore everything
+*
+
+# Except README.md
+!README.md
+
+# Except src folder and its contents
+!src/
+!src/**
+
+# Keep .gitignore itself
+!.gitignore
