@@ -6,12 +6,9 @@ public class CharArrayDemo {
 		
 		char[] c = {'a','e','i','o','u'};
 		
-		System.out.println(c[4]);
+		System.out.println(c[3]);
 		
 		System.out.println(c.length);
-		
-		
-
 		
 	}
 
