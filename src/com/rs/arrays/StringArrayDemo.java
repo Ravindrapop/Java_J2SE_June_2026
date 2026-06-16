@@ -25,6 +25,6 @@ public class StringArrayDemo {
 			for(int i=0;i<companyNames.length;i++) {//5<=5
 				
 				System.out.println(companyNames[i]);//companyNames[1]
-			}
+	}   
 			}
 }
